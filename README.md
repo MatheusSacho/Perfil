@@ -31,7 +31,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 ## Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusSacho&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
