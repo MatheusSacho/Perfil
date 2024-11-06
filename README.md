@@ -11,7 +11,7 @@ Sou um desenvolvedor apaixonado por **TI**, com experiência em **Análise de Da
 
 - 🚀 Buscando sempre melhorar e aprender novas ferramentas e tecnologias.
 - 🌱 Atualmente aprendendo sobre **Python/Power Bi**.
-- ⚡ Fato curioso: **[fato sobre você]**.
+- ⚡ Fato curioso: **Sou um entusiasta em Lógica de Programação**.
 
 ## Tecnologias que domino
 
