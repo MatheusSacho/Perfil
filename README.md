@@ -28,6 +28,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 - [**Projeto 1**](https://github.com/MatheusSacho/Jogo-Monty-Hall): Um breve jogo sobre o Enigma de Monty Hall.
 - [**Projeto 2**](https://github.com/MatheusSacho/Curso-Power-BI): Meu curso de Power Bi.
+- [**Projeto 3**](https://github.com/MatheusSacho/Scratch): Um simluador feito no Scratch.
 
 ## Estatísticas GitHub
 
